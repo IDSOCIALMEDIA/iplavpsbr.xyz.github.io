@@ -1,11 +1,13 @@
 {
-  "Version": "2.1.5",
+  "Version": "2.1.6",
   "ReleaseNotes": "Atualização...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
   "UrlContato": "https://api.whatsapp.com/send?phone=5594984043421&text=Ol%C3%A1%2C%20Talita!%20Quero%20testar%20internet%20ilimitada",
   "UrlTermos": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/termos.html",
+  "CheckUser": "true",
+  "FormatCheck": "yyyymmdd",
   "Udp": [
     {
       "Porta": "7300"
