@@ -1,6 +1,6 @@
 {
-  "Version": "2.2.3",
-  "ReleaseNotes": "Atualização:2.2.0...",
+  "Version": "2.2.4",
+  "ReleaseNotes": "Atualização:2.2.4...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -27,7 +27,7 @@
   ],
   "Servers": [
     {
-      "Name": "IPLAYVPSBR | PLUS",
+      "Name": "IPLAYVPSBR 1 | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
