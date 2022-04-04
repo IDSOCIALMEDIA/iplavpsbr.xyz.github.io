@@ -37,7 +37,7 @@
     },
     {
       "Name": "IPLAYVPSBR | FREE",
-      "TYPE": "free",
+      "TYPE": "Em Breve",
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
       "CheckUser": "http://iplayvpsbr.xyz:5000/check",
