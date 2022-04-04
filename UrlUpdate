@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.2",
-  "ReleaseNotes": "TESTE UPDATE ONLINE",
+  "Version": "2.1.2",
+  "ReleaseNotes": "Atualização",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -43,7 +43,7 @@
       "CheckUser": "http://iplayvpsbr.xyz:5000/check",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "kirito",
+      "USER": "free",
       "PASS": "1234"
     }
   ],
