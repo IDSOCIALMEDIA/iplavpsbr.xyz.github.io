@@ -1,5 +1,5 @@
 {
-  "Version": "2.2.7",
+  "Version": "2.2.1",
   "ReleaseNotes": "Atualização:2.2.7...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -31,7 +31,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
-      "CheckUser": "http://209.14.69.49:5000/check/"+ USER +",
+      "CheckUser": "http://192.99.79.160:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -40,9 +40,9 @@
     {
       "Name": "IPLAYVPSBR | FREE",
       "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "iplayvpsbr.xyz",
-      "CheckUser": "http://209.14.69.49:5000/check/"+ USER +",
+      "FLAG": "ca.png",
+      "ServerIP": "ca.iplayvpsbr.xyz",
+      "CheckUser": "http://192.99.79.160:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "free",
