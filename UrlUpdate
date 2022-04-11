@@ -1,6 +1,6 @@
 {
-  "Version": "2.3.2",
-  "ReleaseNotes": "Atualização:2.3.2...",
+  "Version": "2.3.3",
+  "ReleaseNotes": "Atualização:2.3.3...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -45,8 +45,8 @@
       "CheckUser": "http://192.99.79.160:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "free",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
