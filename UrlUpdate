@@ -1,6 +1,6 @@
 {
-  "Version": "2.3.4",
-  "ReleaseNotes": "Atualização:2.3.4...",
+  "Version": "2.3.5",
+  "ReleaseNotes": "Atualização:2.3.5...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -42,7 +42,7 @@
       "Name": "IPLAYVPSBR | FREE",
       "TYPE": "free",
       "FLAG": "ca.png",
-      "ServerIP": "v2.iplayvpsbr.xyz",
+      "ServerIP": "ca.iplayvpsbr.xyz",
       "CheckUser": "http://20.226.40.12:5000/check",
       "ServerPort": "22",
       "SSLPort": "443",
