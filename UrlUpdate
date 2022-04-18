@@ -1,6 +1,6 @@
 {
-  "Version": "2.3.7",
-  "ReleaseNotes": "Atualização:2.3.5...",
+  "Version": "2.3.8",
+  "ReleaseNotes": "Atualização:2.3.8...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -13,21 +13,36 @@
       "Porta": "7300"
     },
     {
-      "Porta": "7400"
+      "Porta": "7301"
     },
     {
-      "Porta": "7500"
+      "Porta": "7302"
     },
     {
-      "Porta": "7600"
+      "Porta": "7303"
     },
     {
-      "Porta": "7700"
+      "Porta": "7304"
+    },
+    {
+      "Porta": "7305"
+    },
+    {
+      "Porta": "7306"
+    },
+    {
+      "Porta": "7307"
+    },
+    {
+      "Porta": "7308"
+    },
+    {
+      "Porta": "7309"
     }
   ],
   "Servers": [
     {
-      "Name": "IPLAYVPSBR 1 | PLUS",
+      "Name": "IPLAYVPSBR | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
@@ -52,12 +67,22 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO PROXY 010",
+      "Name": "VIVO PROXY 01",
       "FLAG": "vivo",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.56.6",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO PROXY 02",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.57.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
