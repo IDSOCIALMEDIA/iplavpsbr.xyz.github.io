@@ -1,6 +1,6 @@
 {
-  "Version": "2.4.9",
-  "ReleaseNotes": "Atualização:2.4.9...",
+  "Version": "2.5.0",
+  "ReleaseNotes": "Atualização:2.5.0...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -42,8 +42,8 @@
   ],
   "Servers": [
     {
-      "Name": "IPLAYVPSBR | PLUS",
-      "TYPE": "premium",
+      "Name": "SERVIDOR BR | PLUS",
+      "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
       "CheckUser": "http://209.14.69.49:5000/checkUser",
@@ -54,7 +54,7 @@
     },
 
     {
-      "Name": "IPLAYVPSBR | Em Breve",
+      "Name": "SERVIDOR CA | GRATIS",
       "TYPE": "Gratis",
       "FLAG": "ca.png",
       "ServerIP": "ca.iplayvpsbr.xyz",
