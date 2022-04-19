@@ -1,6 +1,6 @@
 {
-  "Version": "2.4.8",
-  "ReleaseNotes": "Atualização:2.4.8...",
+  "Version": "2.4.9",
+  "ReleaseNotes": "Atualização:2.4.9...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -140,7 +140,7 @@
       "Name": "CLARO TLS 03",
       "FLAG": "claro",
       "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "parceirosclaro.com.br",
+      "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "",
       "ProxyPort": "",
