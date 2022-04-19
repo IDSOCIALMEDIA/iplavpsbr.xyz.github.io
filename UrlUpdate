@@ -54,11 +54,11 @@
     },
 
     {
-      "Name": "IPLAYVPSBR | FREE",
-      "TYPE": "free",
+      "Name": "IPLAYVPSBR | Em Breve",
+      "TYPE": "Gratis",
       "FLAG": "ca.png",
       "ServerIP": "ca.iplayvpsbr.xyz",
-      "CheckUser": "http://20.226.40.12:5000/check",
+      "CheckUser": "http://209.14.69.49:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
