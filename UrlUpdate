@@ -1,6 +1,6 @@
 {
-  "Version": "2.5.3",
-  "ReleaseNotes": "Atualização:2.5.3...",
+  "Version": "2.5.4",
+  "ReleaseNotes": "Atualização:2.5.4...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -130,7 +130,7 @@
       "Name": "CLARO TLS 02",
       "FLAG": "claro",
       "Payload": "GET ssl://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
-      "SNI": "[app_host]",
+      "SNI": "content.akross.com.br",
       "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
@@ -142,6 +142,16 @@
       "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "content.akross.com.br",
       "TlsIP": "content.akross.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO TLS 04",
+      "FLAG": "claro",
+      "Payload": "GET ws://central.qnax.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "central.qnax.com.br",
+      "TlsIP": "central.qnax.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
