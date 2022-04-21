@@ -121,7 +121,7 @@
       "FLAG": "claro",
       "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "104.16.56.6",
+      "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -149,9 +149,9 @@
     {
       "Name": "CLARO TLS 04",
       "FLAG": "claro",
-      "Payload": "GET ws://central.qnax.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
-      "SNI": "central.qnax.com.br",
-      "TlsIP": "central.qnax.com.br",
+      "Payload": "GET ws://instagram.com/accounts/password/reset/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "instagram.com/accounts/password/reset/",
+      "TlsIP": "instagram.com/accounts/password/reset/",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
