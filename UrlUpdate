@@ -139,8 +139,8 @@
     {
       "Name": "CLARO TLS 03",
       "FLAG": "claro",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "content.akross.com.br",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "",
       "ProxyPort": "",
