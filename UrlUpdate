@@ -1,6 +1,6 @@
 {
-  "Version": "2.5.1",
-  "ReleaseNotes": "Atualização:2.5.1...",
+  "Version": "2.5.2",
+  "ReleaseNotes": "Atualização:2.5.2...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -129,8 +129,8 @@
     {
       "Name": "CLARO TLS 02",
       "FLAG": "claro",
-      "Payload": "GET ssl://parceirosclaro.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
-      "SNI": "parceirosclaro.com.br",
+      "Payload": "GET ssl://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "[app_host]",
       "TlsIP": "104.16.56.6",
       "ProxyIP": "",
       "ProxyPort": "",
