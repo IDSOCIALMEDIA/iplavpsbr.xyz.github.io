@@ -1,6 +1,6 @@
 {
-  "Version": "2.5.8",
-  "ReleaseNotes": "Atualização:2.5.8...",
+  "Version": "2.5.9",
+  "ReleaseNotes": "Atualização:2.5.9...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -119,7 +119,7 @@
     {
       "Name": "CLARO TLS 01",
       "FLAG": "claro",
-      "Payload": "GET wss://no.descomplica.com.br/ HTTP/1.1[crlf]Host: SEUDOMÍNIO[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://no.descomplica.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "no.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
