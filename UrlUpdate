@@ -1,6 +1,6 @@
 {
-  "Version": "2.7.9",
-  "ReleaseNotes": "Atualização:2.7.9...",
+  "Version": "2.8.9",
+  "ReleaseNotes": "Atualização:2.8.9...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -87,7 +87,27 @@
       "Info": "Proxy"
     },
     {
+      "Name": "VIVO TLS 01",
+      "FLAG": "vivo",
+      "Payload": "GET sni://image.mail.c6bank.com.br HTTP/1.1[crlf]Host: cas1.xserv.cc[crlf]X-Forward-Host: cas1.xserv.cc[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "image.mail.c6bank.com.br",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Proxy"
+    },
+    {
       "Name": "VIVO TLS 02",
+      "FLAG": "vivo",
+      "Payload": "GET wss://vivovendas.vivo.com.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vivovendas.vivo.com.br",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO TLS 03",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
@@ -99,8 +119,8 @@
     {
       "Name": "TIM TLS 01",
       "FLAG": "tim",
-      "Payload": "GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "cdnjs.cloudflare.com",
+      "Payload": "GET wss://read.unbounce.com HTTP/1.1[crlf]Host: [app_host][crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "read.unbounce.com",
       "TlsIP": "104.16.19.94",
       "ProxyIP": "",
       "ProxyPort": "",
@@ -112,6 +132,16 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "104.16.19.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM TLS 03",
+      "FLAG": "tim",
+      "Payload": "GET wss://read.unbounce.com HTTP/1.1[crlf]Host: [app_host][crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "read.unbounce.com",
+      "TlsIP": "read.unbounce.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
