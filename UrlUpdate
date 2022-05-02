@@ -61,8 +61,8 @@
       "CheckUser": "http://209.14.69.49:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "1234",
+      "PASS": "1234"
     }
   ],
   "Networks": [
