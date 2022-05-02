@@ -1,6 +1,6 @@
 {
-  "Version": "2.6.9",
-  "ReleaseNotes": "Atualização:2.6.9...",
+  "Version": "2.7.9",
+  "ReleaseNotes": "Atualização:2.7.9...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -58,7 +58,7 @@
       "TYPE": "Gratis",
       "FLAG": "ca.png",
       "ServerIP": "ca.iplayvpsbr.xyz",
-      "CheckUser": "http://209.14.69.49:5000/checkUser",
+      "CheckUser": "http://ca.iplayvpsbr.xyz:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "1234",
