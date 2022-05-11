@@ -1,6 +1,6 @@
 {
-  "Version": "3.1.9",
-  "ReleaseNotes": "Atualização:3.1.9...",
+  "Version": "3.2.9",
+  "ReleaseNotes": "Atualização:3.2.9...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -182,6 +182,16 @@
       "Payload": "GET ws://no.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "no.descomplica.com.br", 
       "TlsIP": "199.60.103.228", 
+      "ProxyIP": "", 
+      "ProxyPort": "", 
+      "Info": "Tlsws" 
+    },
+    {
+      "Name": "CLARO 2", 
+      "FLAG": "claro", 
+      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: SEUDOMINIO[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "content.akross.com.br", 
+      "TlsIP": "content.akross.com.br ", 
       "ProxyIP": "", 
       "ProxyPort": "", 
       "Info": "Tlsws" 
