@@ -1,6 +1,6 @@
 {
-  "Version": "3.0.9",
-  "ReleaseNotes": "Atualização:3.0.9...",
+  "Version": "3.1.9",
+  "ReleaseNotes": "Atualização:3.1.9...",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
@@ -170,7 +170,7 @@
       "Name": "CLARO TLS 01",
       "FLAG": "claro",
       "Payload": "GET wss://no.descomplica.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "199.60.103.228",
+      "SNI": "no.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
@@ -181,7 +181,17 @@
       "FLAG": "claro", 
       "Payload": "GET ws://no.descomplica.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "no.descomplica.com.br", 
-      "TlsIP": "no.descomplica.com.br", 
+      "TlsIP": "199.60.103.228", 
+      "ProxyIP": "", 
+      "ProxyPort": "", 
+      "Info": "Tlsws" 
+    },
+    {
+      "Name": "CLARO REGIÕES", 
+      "FLAG": "claro", 
+      "Payload": "GET wss://clarobrasil.sytes.net HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "http://clarobrasil.sytes.net", 
+      "TlsIP": "104.16.56.6", 
       "ProxyIP": "", 
       "ProxyPort": "", 
       "Info": "Tlsws" 
