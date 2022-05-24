@@ -305,16 +305,6 @@
       "ProxyIP": "", 
       "ProxyPort": "", 
       "Info": "Tlsws" 
-    }, 
-    { 
-      "Name": "OI 2", 
-      "FLAG": "oi", 
-      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "104.16.56.6", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
     }
   ]
 }
