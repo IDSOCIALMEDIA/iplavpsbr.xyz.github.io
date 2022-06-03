@@ -1,5 +1,5 @@
 {
-  "Version": "3.9.0",
+  "Version": "3.9.1",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -26,18 +26,6 @@
     },
     {
       "Porta": "7305"
-    },
-    {
-      "Porta": "7306"
-    },
-    {
-      "Porta": "7307"
-    },
-    {
-      "Porta": "7308"
-    },
-    {
-      "Porta": "7309"
     }
   ],
   "Servers": [
