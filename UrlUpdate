@@ -1,5 +1,5 @@
 {
-  "Version": "3.9.2",
+  "Version": "3.9.3",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -36,7 +36,7 @@
       "ServerIP": "iplayvpsbr.xyz",
       "CheckUser": "http://209.14.69.49:5000/checkUser",
       "ServerPort": "22",
-      "SSLPort": "443",
+      "SSLPort": "442",
       "USER": "",
       "PASS": ""
     },
@@ -48,7 +48,7 @@
       "ServerIP": "iplayvpsbr.xyz",
       "CheckUser": "http://209.14.69.49:5000/checkUser",
       "ServerPort": "22",
-      "SSLPort": "443",
+      "SSLPort": "442",
       "USER": "1234",
       "PASS": "1234"
     }
@@ -91,7 +91,7 @@
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
@@ -101,7 +101,7 @@
       "SNI": "carrinho-pos-familia.vivo.com.br",
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
@@ -111,7 +111,7 @@
       "SNI": "portaljud.vivo.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
@@ -191,7 +191,7 @@
       "SNI": "beringtime.com",
       "TlsIP": "beringtime.com",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
