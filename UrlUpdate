@@ -1,5 +1,5 @@
 {
-  "Version": "3.9.1",
+  "Version": "3.9.2",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -61,7 +61,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
@@ -71,7 +71,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.7.80",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
@@ -81,7 +81,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "vigia.vivo.com.br",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
@@ -141,7 +141,7 @@
       "SNI": "", 
       "TlsIP": "", 
       "ProxyIP": "104.18.6.80", 
-      "ProxyPort": "80", 
+      "ProxyPort": "8080", 
       "Info": "Proxy" 
     },
     {
@@ -151,7 +151,7 @@
       "SNI": "cdnjs.cloudflare.com",
       "TlsIP": "104.16.19.94",
       "ProxyIP": "",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
