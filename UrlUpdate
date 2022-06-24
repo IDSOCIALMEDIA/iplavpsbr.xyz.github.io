@@ -1,5 +1,5 @@
 {
-  "Version": "3.9.7",
+  "Version": "3.9.8",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -60,7 +60,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.7.80",
+      "ProxyIP": "104.24.10.16",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -70,7 +70,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.7.80",
+      "ProxyIP": "104.24.10.16",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -80,7 +80,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "vigia.vivo.com.br",
+      "ProxyIP": "104.24.10.16",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
