@@ -7,8 +7,8 @@
   "UrlContato": "https://chat.whatsapp.com/KYDLlAM7YGG218R7eDnJ65",
   "UrlTermos": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/termos.html",
   "CheckUser": "true",
-  "UdpPort": "7300;7301;7302;7303;7304;7305",
-  "Udp": [
+  "FormatCheck": "dd/mm/yyyy",
+    "Udp": [
     {
       "Porta": "7300"
     },
