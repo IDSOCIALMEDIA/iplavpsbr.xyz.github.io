@@ -1,14 +1,14 @@
 {
-  "Version": "4.0.1",
-  "ReleaseNotes": "Atualize seu aplicativo! Novidade para 🟣VIVO🟣🔵TIM🔵🟢oi🟢 🚀🚀🚀🤳",
-  "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
+  "Version": "4.0.9",
+  "ReleaseNotes": "Atualização Disponivel",
+  "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate1",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
   "EmailFeedback": "ip290996@gmail.com",
   "UrlContato": "https://chat.whatsapp.com/KYDLlAM7YGG218R7eDnJ65",
   "UrlTermos": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/termos.html",
   "CheckUser": "true",
-  "UdpPort": "7300;7301;7302;7303;7304",
-  "Udp": [
+  "FormatCheck": "dd/mm/yyyy",
+    "Udp": [
     {
       "Porta": "7300"
     },
@@ -23,16 +23,19 @@
     },
     {
       "Porta": "7304"
+    },
+    {
+      "Porta": "7305"
     }
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR BR | PLUS",
+      "Name": "SERVIDOR BR 1 | PLUS",
       "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
       "CheckUser": "http://209.14.69.49:5000/checkUser",
-      "ServerPort": "443",
+      "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -100,7 +103,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🟢VIVO [SSL 04]",
+      "Name": "💚VIVO [SSL 04]",
       "FLAG": "vivo",
       "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "www.alura.com.br",
