@@ -1,5 +1,5 @@
 {
-  "Version": "4.3.9",
+  "Version": "4.4.9",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -309,16 +309,6 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
-    },
-    {
-      "Name": "OI TODAS REGIÕES", 
-      "FLAG": "oi", 
-      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
-      "SNI": "www.hbogo.com.br", 
-      "TlsIP": "www.hbogo.com.br", 
-      "ProxyIP": "", 
-      "ProxyPort": "", 
-      "Info": "Tlsws" 
     }
   ]
 }
