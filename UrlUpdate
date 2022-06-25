@@ -1,5 +1,5 @@
 {
-  "Version": "3.9.8",
+  "Version": "3.9.9",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -7,7 +7,7 @@
   "UrlContato": "https://chat.whatsapp.com/KYDLlAM7YGG218R7eDnJ65",
   "UrlTermos": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/termos.html",
   "CheckUser": "true",
-  "FormatCheck": "dd/mm/yyyy",
+  "UdpPort": "7300;7301;7302;7303;7304;7305",
   "Udp": [
     {
       "Porta": "7300"
@@ -30,7 +30,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR BR | PLUS",
+      "Name": "SERVIDOR BR 1 | PLUS",
       "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
@@ -39,18 +39,6 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-
-    {
-      "Name": "SERVIDOR BR 2 | PLUS",
-      "TYPE": "Premium",
-      "FLAG": "br.png",
-      "ServerIP": "iplayvpsbr.xyz",
-      "CheckUser": "http://209.14.69.49:5000/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "1234",
-      "PASS": "1234"
     }
   ],
   "Networks": [
