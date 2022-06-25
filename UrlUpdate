@@ -103,7 +103,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🟣VIVO [SSL 04]",
+      "Name": "🟢VIVO [SSL 04]",
       "FLAG": "vivo",
       "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "www.alura.com.br",
