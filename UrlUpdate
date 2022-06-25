@@ -1,5 +1,5 @@
 {
-  "Version": "4.2.9",
+  "Version": "4.3.9",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -8,6 +8,7 @@
   "UrlTermos": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/termos.html",
   "CheckUser": "true",
   "FormatCheck": "dd/mm/yyyy",
+  "UdpPort": "7300;7301;7302;7303;7304;7305",
     "Udp": [
     {
       "Porta": "7300"
