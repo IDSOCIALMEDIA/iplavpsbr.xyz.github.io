@@ -8,7 +8,6 @@
   "UrlTermos": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/termos.html",
   "CheckUser": "true",
   "FormatCheck": "dd/mm/yyyy",
-  "UdpPort": "7300;7301;7302;7303;7304;7305",
     "Udp": [
     {
       "Porta": "7300"
