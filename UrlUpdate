@@ -1,5 +1,5 @@
 {
-  "Version": "3.9.9",
+  "Version": "3.9.10",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -30,7 +30,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR BR 1 | PLUS",
+      "Name": "SERVIDOR BR | PLUS",
       "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
