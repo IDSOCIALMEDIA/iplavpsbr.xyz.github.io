@@ -35,7 +35,7 @@
       "FLAG": "br.png",
       "ServerIP": "iplayvpsbr.xyz",
       "CheckUser": "http://209.14.69.49:5000/checkUser",
-      "ServerPort": "22",
+      "ServerPort": "443",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
