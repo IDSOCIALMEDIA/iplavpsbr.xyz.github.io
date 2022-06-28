@@ -1,5 +1,5 @@
 {
-  "Version": "4.8.9",
+  "Version": "4.9.9",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -42,6 +42,16 @@
     }
   ],
   "Networks": [
+    {
+      "Name": "Vivo SSL",
+      "FLAG": "vivo",
+      "Payload": "GET wss://api.bitso.com/ HTTP/1.1[lf]Host: [app_host] [lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "SNI": "api.bitso.com",
+      "TlsIP": "172.64.195.2",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
     {
       "Name": "VIVO PROXY 01",
       "FLAG": "vivo",
