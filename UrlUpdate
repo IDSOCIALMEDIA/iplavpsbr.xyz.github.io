@@ -503,7 +503,7 @@
     {
       "Name": "Vivo DIRECT",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host] [crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.24.11.16",
