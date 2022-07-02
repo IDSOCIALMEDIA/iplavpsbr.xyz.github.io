@@ -177,7 +177,7 @@
       "FLAG": "VIVO", 
       "Payload": "GET ws://gedoc.vivo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
       "SNI": "gedoc.vivo.com.br", 
-      "TlsIP": "104.24.10.16", 
+      "TlsIP": "162.159.135.63", 
       "ProxyIP": "", 
       "ProxyPort": "", 
       "Info": "Tlsws" 
