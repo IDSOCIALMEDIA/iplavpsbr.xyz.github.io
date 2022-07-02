@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.6",
+  "Version": "5.0.7",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -83,13 +83,13 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "Vivo DIRECT",
+      "Name": "Vivo B.O",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.16.123.175",
-      "ProxyPort": "80",
+      "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[lf]Host: seu dominio[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]"
+      "SNI": "http://www.alura.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "",
       "Info": "Proxy"
     },
     {
