@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.7",
+  "Version": "5.0.8",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -85,7 +85,7 @@
     {
       "Name": "Vivo B.O",
       "FLAG": "vivo",
-      "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[lf]Host: seu dominio[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]"
+      "Payload": "GET wss://www.alura.com.br/ HTTP/1.1[lf]Host: seu dominio[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
       "SNI": "http://www.alura.com.br",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
