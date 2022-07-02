@@ -1,5 +1,5 @@
 {
-  "Version": "5.0.9",
+  "Version": "5.1.0",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -90,7 +90,7 @@
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
     {
       "Name": "VIVO PROXY 01",
