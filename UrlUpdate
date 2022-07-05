@@ -1,5 +1,5 @@
 {
-  "Version": "5.1.7",
+  "Version": "5.1.8",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -33,7 +33,7 @@
       "Name": "SERVIDOR BR | PLUS",
       "TYPE": "Premium",
       "FLAG": "br.png",
-      "ServerIP": "iplayvpsbr.xyz",
+      "ServerIP": "d2ajwxk2a3zskl.cloudfront.net",
       "CheckUser": "http://209.14.69.49:5000/checkUser",
       "ServerPort": "443",
       "SSLPort": "443",
