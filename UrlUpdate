@@ -83,7 +83,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🟣VIVO 2 TESTE DDD 94",
+      "Name": "🟣VIVO 2 TESTE DDD",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
