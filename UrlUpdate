@@ -1,5 +1,5 @@
 {
-  "Version": "5.4.5",
+  "Version": "5.4.6",
   "ReleaseNotes": "Atualização Disponivel",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate1",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -85,12 +85,12 @@
     {
       "Name": "🟣VIVO 2 TESTE DDD 94",
       "FLAG": "vivo",
-      "Payload": "GET wss://cpa.alfaumuarama.edu.br/ HTTP/1.1[crlf]Host: d2ajwxk2a3zskl.cloudfront.net[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.21.11.51",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
     {
       "Name": "VIVO NEW 🟣 1",
