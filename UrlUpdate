@@ -1,5 +1,5 @@
 {
-  "Version": "5.5.7",
+  "Version": "5.5.8",
   "ReleaseNotes": "🟢 VIVO VOLTOU COM TUDO AGORA 🟢",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate",
   "Sms": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlSms",
@@ -22,9 +22,6 @@
     },
     {
       "Porta": "7304"
-    },
-    {
-      "Porta": "7305"
     }
   ],
   "Servers": [
@@ -49,6 +46,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+    },
   ],
   "Networks": [
     {
