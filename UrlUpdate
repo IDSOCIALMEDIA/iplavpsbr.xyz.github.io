@@ -36,17 +36,6 @@
       "USER": "",
       "PASS": ""
     },
-    {
-      "Name": "SERVIDOR BR 2 | PLUS",
-      "TYPE": "Premium",
-      "FLAG": "br.png",
-      "ServerIP": "br2.iplayvpsbr.xyz",
-      "CheckUser": "http://20.206.82.109:5000/checkUser",
-      "ServerPort": "443",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
   ],
   "Networks": [
     {
