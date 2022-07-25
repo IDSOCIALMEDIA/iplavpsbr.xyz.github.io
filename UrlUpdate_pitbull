@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.02",
+  "Version": "1.0.03",
   "ReleaseNotes": "🟢 TODAS OPERADORAS FUNCIONANDO 🟢",
   "UrlUpdate": "https://idsocialmedia.github.io/iplavpsbr.xyz.github.io/UrlUpdate_pitbull",
   "Sms": "",
@@ -69,6 +69,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "planosvivointernet.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO | PROXY | 14\nDDD:14,17,18,31,38\n61,65,68,71,93",
+      "FLAG": "vivo",
+      "Payload": "GET /? HTTP/1.1 [crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
